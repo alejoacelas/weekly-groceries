@@ -30,7 +30,8 @@ is a researched plan for cooking its menu.
 ## Where I buy it
 
 The weekly staples come in one Waitrose home delivery, with one loaf in each order.
-I buy fresh bread myself on the other days.
+I buy fresh bread myself on the other days. Delivery slot: 12–1pm, any day except
+Sunday.
 
 Waitrose requires a [£40 minimum per order](https://www.waitrose.com/ecom/help-information/customer-service/delivery-pass),
 counted after discounts. Delivery slots cost £2–4 each, or nothing with a

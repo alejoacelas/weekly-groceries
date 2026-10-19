@@ -33,6 +33,15 @@ The weekly staples come in one Waitrose home delivery, with one loaf in each ord
 I buy fresh bread myself on the other days. Delivery slot: 12–1pm, any day except
 Sunday.
 
+Each week: open the "Weekly staples" list in the Waitrose account (Favourites → Lists),
+press "Add all items to trolley", raise bananas to 8 loose, book a 12–1pm slot and
+check out. The current picks are No.1 strained Greek yogurt 1kg, Waitrose free-range
+mixed-size eggs 12s, GAIL's seeded sourdough (Waitrose stocks it), Ramona's original
+500g, Waitrose seedless easy peelers 600g, Essential pears 5s, Royal Gala apples 6s,
+red and green seedless grapes 500g each, 8 loose bananas, Waitrose frozen chicken
+breast fillets 1kg and Waitrose 2 Scottish salmon fillets 260g. That came to £43.35
+plus £4 delivery on 19 October 2026.
+
 Waitrose requires a [£40 minimum per order](https://www.waitrose.com/ecom/help-information/customer-service/delivery-pass),
 counted after discounts. Delivery slots cost £2–4 each, or nothing with a
 [Delivery Pass](https://www.waitrose.com/ecom/delivery-pass) (£85 a year).

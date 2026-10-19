@@ -17,6 +17,8 @@ is a researched plan for cooking its menu.
 | Apples | 6-pack or similar | |
 | Grapes | 1–2 boxes | |
 | Bananas | about 8 | |
+| Frozen chicken breast fillets | 1 pack | Everyday protein; thaw tomorrow's portion in the fridge overnight. Skip a week when the freezer is full. |
+| Salmon fillets | 1 pack of 2 | Oily fish for one or two dinners. Freeze on arrival; cook from frozen in the oven. |
 
 ## Now and then
 
@@ -36,6 +38,6 @@ counted after discounts. Delivery slots cost £2–4 each, or nothing with a
 
 ## Open questions
 
-1. **Protein.** No settled source yet. Recently: pan-fried chicken breast or beef cuts,
-   and colombinas, either oven-baked or cooked in a guiso on the pan. I don't want to
-   worry about food spoiling, so meat that freezes well is a likely direction.
+1. **Protein.** Trying frozen chicken breast as the everyday protein and salmon once
+   or twice a week, chosen so nothing spoils. At Waitrose, chicken breast costs about
+   £1 per 30g of protein, and salmon or mackerel about £3.

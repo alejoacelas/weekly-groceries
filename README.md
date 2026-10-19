@@ -25,9 +25,17 @@ is a researched plan for cooking its menu.
 - Tuna in olive oil
 - Tofu, the XXL pack from the standard brand sold across the UK
 
+## Where I buy it
+
+The weekly staples come in one Waitrose home delivery, with one loaf in each order.
+I buy fresh bread myself on the other days.
+
+Waitrose requires a [£40 minimum per order](https://www.waitrose.com/ecom/help-information/customer-service/delivery-pass),
+counted after discounts. Delivery slots cost £2–4 each, or nothing with a
+[Delivery Pass](https://www.waitrose.com/ecom/delivery-pass) (£85 a year).
+
 ## Open questions
 
-1. **Where to buy the weekly staples.** Not decided yet.
-2. **Protein.** No settled source yet. Recently: pan-fried chicken breast or beef cuts,
+1. **Protein.** No settled source yet. Recently: pan-fried chicken breast or beef cuts,
    and colombinas, either oven-baked or cooked in a guiso on the pan. I don't want to
    worry about food spoiling, so meat that freezes well is a likely direction.

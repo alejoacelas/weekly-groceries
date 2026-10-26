@@ -30,7 +30,8 @@ is a researched plan for cooking its menu.
 
 The weekly staples come in one Waitrose home delivery, with one loaf in each order.
 I buy fresh bread myself on the other days. Delivery slot: 12–1pm, any day except
-Sunday.
+Sunday. Every Friday the mail digest
+opens an order topic; tell it what to add, and it fills the trolley up to checkout.
 
 Each week: open the "Weekly staples" list in the Waitrose account (Favourites → Lists),
 press "Add all items to trolley", then in the trolley raise bananas to 6 loose and

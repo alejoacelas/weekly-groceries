@@ -16,14 +16,14 @@ is a researched plan for cooking its menu.
 | Pears | 6-pack or similar | |
 | Apples | 6-pack or similar | |
 | Grapes | 1–2 boxes | |
-| Bananas | about 8 | |
+| Bananas | 6 | |
 | Frozen chicken breast fillets | 1 pack | Everyday protein; thaw tomorrow's portion in the fridge overnight. Skip a week when the freezer is full. |
+| Tuna in olive oil | 4-tin pack | |
 
 ## Now and then
 
 - Tomatoes, peppers (romano or bell) and onions
 - Plain unsweetened wholegrain cereal (Waitrose's so far; haven't tried many others)
-- Tuna in olive oil
 - Tofu, the XXL pack from the standard brand sold across the UK
 
 ## Where I buy it
@@ -33,22 +33,26 @@ I buy fresh bread myself on the other days. Delivery slot: 12–1pm, any day exc
 Sunday.
 
 Each week: open the "Weekly staples" list in the Waitrose account (Favourites → Lists),
-press "Add all items to trolley", then in the trolley raise bananas to 8 loose and
+press "Add all items to trolley", then in the trolley raise bananas to 6 loose and
 Ramona's hummus to 2. Book a 12–1pm slot and check out. The current picks are No.1
 strained Greek yogurt 1kg, Waitrose free-range mixed-size eggs 12s, Waitrose Fruit and
 Nut Bloomer 350g (bakery counter), Ramona's original 500g, Waitrose seedless easy
 peelers 600g, Essential pears 5s, Royal Gala apples 6s, red and green seedless grapes
-500g each, 8 loose bananas and Waitrose frozen chicken breast fillets 1kg.
+500g each, 6 loose bananas, Waitrose frozen chicken breast fillets 1kg and Waitrose
+MSC tuna steak in olive oil 4x200g. That came to £45.65 plus £4 delivery on 26
+October 2026.
 
 The bloomer is sometimes unavailable for the chosen slot; checkout then lists it under
 "Unavailable items". Replace it with No.1 Seeded Sourdough 500g, the highest-fibre
 of the seeded and wholegrain sourdoughs Waitrose listed in October 2026 (6.9g per 100g).
 
-The list comes to about £38.60, under Waitrose's [£40 minimum per order](https://www.waitrose.com/ecom/help-information/customer-service/delivery-pass),
-counted after discounts, so add one item from "Now and then". A 200g tin of
-Waitrose tuna steak in olive oil (£2.75) is enough. Delivery
-slots cost £3–7 each, or nothing with a
+Waitrose requires a [£40 minimum per order](https://www.waitrose.com/ecom/help-information/customer-service/delivery-pass),
+counted after discounts; without the tuna the list falls just under it. Delivery slots
+cost £3–7 each, or nothing with a
 [Delivery Pass](https://www.waitrose.com/ecom/delivery-pass) (£85 a year).
+
+Payment needs me: checkout shows a human check, then Monzo asks me to approve the
+payment in its app.
 
 ## Open questions
 

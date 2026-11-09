@@ -10,7 +10,7 @@ is a researched plan for cooking its menu.
 |---|---|---|
 | Greek yoghurt | 1 tub | |
 | Eggs | 1 box | |
-| Fresh bread | 1 loaf | Slightly sweet fruit-and-nut loaf by default; a high-fibre seeded sourdough when it's unavailable. Waitrose and Gail's are good; Tesco Express bread usually isn't. |
+| High-protein tortillas | 1 pack | Replaced bread in the order on 9 November 2026. |
 | Hummus | 2 tubs | Ramona's by default; others may be good. |
 | Easy peelers | 1 bag | |
 | Pears | 6-pack or similar | |
@@ -28,24 +28,24 @@ is a researched plan for cooking its menu.
 
 ## Where I buy it
 
-The weekly staples come in one Waitrose home delivery, with one loaf in each order.
-I buy fresh bread myself on the other days. Delivery slot: 12–1pm, any day except
+The weekly staples come in one Waitrose home delivery. The order has no bread since
+9 November 2026; I buy fresh bread myself when I want it. Delivery slot: 12–1pm, any day except
 Sunday. Every Friday the mail digest
 opens an order topic; tell it what to add, and it fills the trolley up to checkout.
 
 Each week: open the "Weekly staples" list in the Waitrose account (Favourites → Lists),
 press "Add all items to trolley", then in the trolley raise bananas to 6 loose and
 Ramona's hummus to 2. Book a 12–1pm slot and check out. The current picks are No.1
-strained Greek yogurt 1kg, Waitrose free-range mixed-size eggs 12s, Waitrose Fruit and
-Nut Bloomer 350g (bakery counter), Ramona's original 500g, Waitrose seedless easy
+strained Greek yogurt 1kg, Waitrose free-range mixed-size eggs 12s, Waitrose 6 High
+Protein Tortilla Wraps, Ramona's original 500g, Waitrose seedless easy
 peelers 600g, Essential pears 5s, Royal Gala apples 6s, red and green seedless grapes
 500g each, 6 loose bananas, Waitrose frozen chicken breast fillets 1kg and Waitrose
 MSC tuna steak in olive oil 4x200g. That came to £45.65 plus £4 delivery on 26
-October 2026.
+October 2026, with a £2.60 bloomer where the wraps (£1.90) now are.
 
-The bloomer is sometimes unavailable for the chosen slot; checkout then lists it under
-"Unavailable items". Replace it with No.1 Seeded Sourdough 500g, the highest-fibre
-of the seeded and wholegrain sourdoughs Waitrose listed in October 2026 (6.9g per 100g).
+Waitrose had no wrap that is both wholegrain and high-protein in November 2026: the
+high-protein wraps use white flour (10g protein, 1.5g fibre each), and the wholegrain
+option is Waitrose 8 Large Wholemeal Tortilla Wraps.
 
 Waitrose requires a [£40 minimum per order](https://www.waitrose.com/ecom/help-information/customer-service/delivery-pass),
 counted after discounts; without the tuna the list falls just under it. Delivery slots
